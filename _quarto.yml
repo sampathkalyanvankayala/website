@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Portfolio"
+  navbar:
+    left:
+    - about me.qmd
+    - projects.qmd
+    
+    
+format:
+  html:
+    theme: sketchy

@@ -1,0 +1,11 @@
+---
+title: "About me"
+format: html
+editor: visual
+---
+
+About Me:
+
+I am an enthusiastic person, always curious and eager to learn new things. Love People. Love
+Travelling. Happy and Fun to be with. I always believe that technology plays a vital role in
+improving human life. I wanted to be a part and contribute to that technology journey. I have always been fascinated by a computer on Dad’s desk since childhood and stories of him telling how much changes technology brought in his work. When I had to choose the path ahead, I have hence chosen Computer Science during my under graduation and Data Analytics Engineering during my graduation due to the rapid evolving nature of the data in the world.
